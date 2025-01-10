@@ -1,6 +1,6 @@
 # 🌟 Witaj na moim profilu GitHub!  
 
-Cześć! Nazywam się **Piotrek StraszaK**, jestem studentem **Cyberbezpieczeństwa** na Akademii Górniczo-Hutniczej w Krakowie. Fascynuje mnie świat technologii, szczególnie bezpieczeństwo sieci, analiza podatności systemów i kryptografia.  
+Cześć! Nazywam się **Piotr Straszak**, jestem studentem **Cyberbezpieczeństwa** na Akademii Górniczo-Hutniczej w Krakowie. Fascynuje mnie świat technologii, szczególnie bezpieczeństwo sieci, analiza podatności systemów i kryptografia.  
 
 ## 🔧 Umiejętności techniczne  
 - **Języki programowania**: Python, C++, Bash  
@@ -20,6 +20,9 @@ Cześć! Nazywam się **Piotrek StraszaK**, jestem studentem **Cyberbezpieczeńs
 - **[Nazwa projektu 1](https://github.com/TwojeRepozytorium/projekt1)**: Opis projektu (np. "Symulacja ataków typu DoS").  
 - **[Nazwa projektu 2](https://github.com/TwojeRepozytorium/projekt2)**: Opis projektu (np. "Analiza i wykrywanie luk bezpieczeństwa w aplikacjach webowych").  
 - **[Więcej projektów](https://github.com/TwojeNazwaUzytkownika?tab=repositories)**  
+
+## 🌐 Moja strona  
+Odwiedź moją stronę: [gajban1.github.io](https://gajban1.github.io)  
 
 ## 🏅 Certyfikaty  
 - [Certyfikat XYZ](#) – Instytucja wydająca  
