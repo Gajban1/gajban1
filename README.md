@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🌟 Witaj na moim profilu GitHub!  
 
-<!--
-**Gajban1/gajban1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cześć! Nazywam się **Piotrek StraszaK**, jestem studentem **Cyberbezpieczeństwa** na Akademii Górniczo-Hutniczej w Krakowie. Fascynuje mnie świat technologii, szczególnie bezpieczeństwo sieci, analiza podatności systemów i kryptografia.  
 
-Here are some ideas to get you started:
+## 🔧 Umiejętności techniczne  
+- **Języki programowania**: Python, C++, Bash  
+- **Systemy operacyjne**: Linux (Ubuntu, Kali), Windows  
+- **Narzędzia i technologie**: Wireshark, Metasploit, Nmap, Git  
+- **Dziedziny specjalizacji**:  
+  - Bezpieczeństwo sieci komputerowych  
+  - Analiza ryzyka i podatności  
+  - Kryptografia i ochrona danych  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Aktualnie się uczę  
+- Zaawansowane techniki pentestingu  
+- Zastosowania sztucznej inteligencji w cyberbezpieczeństwie  
+- Tworzenie skryptów automatyzujących w Pythonie  
+
+## 🚀 Projekty  
+- **[Nazwa projektu 1](https://github.com/TwojeRepozytorium/projekt1)**: Opis projektu (np. "Symulacja ataków typu DoS").  
+- **[Nazwa projektu 2](https://github.com/TwojeRepozytorium/projekt2)**: Opis projektu (np. "Analiza i wykrywanie luk bezpieczeństwa w aplikacjach webowych").  
+- **[Więcej projektów](https://github.com/TwojeNazwaUzytkownika?tab=repositories)**  
+
+## 🏅 Certyfikaty  
+- [Certyfikat XYZ](#) – Instytucja wydająca  
+- [Certyfikat ABC](#) – Instytucja wydająca  
+
+## 📫 Kontakt  
+- 📧 Email: [TwójEmail@example.com](mailto:TwójEmail@example.com)  
+- 💼 LinkedIn: [TwójProfil](https://linkedin.com/in/TwojaNazwa)  
+- 🌐 Portfolio: [TwojaStrona](https://TwojaStrona.github.io)  
+
+## 🌱 Ciekawostki o mnie  
+- Uwielbiam czytać książki o tematyce cyberbezpieczeństwa i śledzić nowe trendy technologiczne.  
+- W wolnym czasie rozwiązuję CTF-y (Capture the Flag) i doskonalę swoje umiejętności.  
+
+Dziękuję za odwiedzenie mojego profilu! 😊
