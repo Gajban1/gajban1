@@ -17,7 +17,7 @@ Cześć! Nazywam się **Piotr Straszak**, jestem studentem **Cyberbezpieczeństw
 - Tworzenie skryptów automatyzujących w Pythonie  
 
 ## 🚀 Projekty  
-- **[Nazwa projektu 1](https://github.com/TwojeRepozytorium/projekt1)**: Opis projektu (np. "Symulacja ataków typu DoS").  
+- **[IceBerg]([https://github.com/TwojeRepozytorium/projekt1](https://github.com/Gajban1/Iceberg))**: KeyLogger.  
 - **[Nazwa projektu 2](https://github.com/TwojeRepozytorium/projekt2)**: Opis projektu (np. "Analiza i wykrywanie luk bezpieczeństwa w aplikacjach webowych").  
 - **[Więcej projektów](https://github.com/TwojeNazwaUzytkownika?tab=repositories)**  
 
